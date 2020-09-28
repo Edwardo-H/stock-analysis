@@ -13,5 +13,8 @@ Using Visual Basic for Applications (VBA) available in Excel, this project attem
 ---
 ### Results
 ---
+Unfortunately, I was unable to complete the Module 2 Challenge. Although I felt like I understood what each line of code was attemopting to deliver, I was tripped up by Run Time Error 6: Overflow.
+
+
 ### Summary
 ---
