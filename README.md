@@ -27,7 +27,7 @@ I researched the error using Stack Overflow and other online resources but unfor
 
 The code appeared to run partially before being interrupted.
 
-
+![PartialResults](https://user-images.githubusercontent.com/70344787/94387695-eb181900-0118-11eb-81de-06b15d45e52f.png)
 
 ### Summary
 ---
