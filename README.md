@@ -11,5 +11,7 @@ Using Visual Basic for Applications (VBA) available in Excel, this project attem
 - Pop-up message showing elapsed time to run analysis for 2017
 - Pop-up message showing elapsed time to run analysis for 2018
 ---
-#### Results
+### Results
+---
+### Summary
 ---
