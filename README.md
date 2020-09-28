@@ -14,6 +14,8 @@ Using Visual Basic for Applications (VBA) available in Excel, this project attem
 ### Results
 ---
 Unfortunately, I was unable to complete the Module 2 Challenge. Although I felt like I understood what each line of code was attemopting to deliver, I was tripped up by Run Time Error 6: Overflow.
+![RunTimeError6](https://user-images.githubusercontent.com/70344787/94387184-5c56cc80-0117-11eb-9c0a-2afdcd6dc3b2.png)
+After selecting "Debug", I found the line that appeared to be causing the error.
 
 
 ### Summary
