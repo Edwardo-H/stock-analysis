@@ -41,4 +41,5 @@ Some advantages of refactoring code include improving the speed of the output an
 #### Disadvantages
 On the other hand, refactoring code can be diasdavantageous if coders become to reliant on existing code thus effecting their creativity and critical thinking that might allow them to see "a new way of doing things". Also, a programmer might rely on an existing code that is ineffectice or sloppy resulting in wasting valuable time.
 
+#### Conclusion
 For this VBA script in particular, I can attest to the fact that refactoring led me to a frustrating experience. I had an understanding of the original code and it was up and running just fine. In my attempt to improve on the code, I wound creating an error that I wasn't able to debug.
