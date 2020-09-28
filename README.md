@@ -1,4 +1,4 @@
-# Refactoring the Module 2 VBA Code and Measuring Performance
+# Refactoring Module 2 VBA Code and Measuring Performance
 ---
 ---
 ## Overview of Project
