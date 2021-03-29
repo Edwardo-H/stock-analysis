@@ -26,10 +26,8 @@ Using Visual Basic for Applications (VBA) available in Excel, this project attem
 ![2018 Run Time](https://user-images.githubusercontent.com/70344787/112781077-634b9280-9007-11eb-8a88-6d1aaba88ff3.PNG)
 
 
-
 ### Summary
 ---
-
 
 #### Advantages
 Some advantages of refactoring code include improving the speed of the output and by streamlining the code to get rid of any unnecessary elements that may cause confusion or be misleading. Also, it could increase a programmer's productivity if they can make adjustments to a similar existing code rather than start a new one from scratch.
