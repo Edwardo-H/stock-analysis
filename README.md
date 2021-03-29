@@ -3,7 +3,7 @@
 ---
 ## Overview of Project
 ---
-Steve, a recent college graduate with a finance degree, had asked for assistance with analyzing green energy stocks on behalf of his parents who are interested in investing. Steve was impressed by the original workbook that was prepared and would now like to expand his dataset to include the entire stock market.
+Steve, a recent college graduate with a finance degree, had asked for assistance with analyzing green energy stocks on behalf of his parents who are interested in investing. Steve was impressed by the original workbook that was prepared for him and would now like to expand his dataset to include additional stocks.
 ---
 ### Purpose
 ---
