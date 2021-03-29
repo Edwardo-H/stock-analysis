@@ -15,23 +15,7 @@ Using Visual Basic for Applications (VBA) available in Excel, this project attem
 ---
 ![2017 Format](https://user-images.githubusercontent.com/70344787/112780874-f89a5700-9006-11eb-8207-ad904e4ed608.PNG)
 
-Unfortunately, I was unable to complete the Module 2 Challenge. Although I felt like I understood what each line of code was attemopting to deliver, I was tripped up by Run Time Error 6: Overflow.
 
-![RunTimeError6](https://user-images.githubusercontent.com/70344787/94387184-5c56cc80-0117-11eb-9c0a-2afdcd6dc3b2.png)
-
-After selecting "Debug", I found the line that appeared to be causing the error.
-
-![Debug](https://user-images.githubusercontent.com/70344787/94387262-a17afe80-0117-11eb-8c3b-527468278fe0.png)
-
-I researched the error using Stack Overflow and other online resources but unfortunately was unable to resolve the problem. I believe it has something to do with the calculation dividing tickerStartingPrices by tickerEndingPrices and perhaps using an incorrect data type. 
-
-![BeforeError](https://user-images.githubusercontent.com/70344787/94387514-61684b80-0118-11eb-9dd5-9ee08ff291ba.png)
-
-The code appeared to run partially before being interrupted.
-
-![PartialResults](https://user-images.githubusercontent.com/70344787/94387695-eb181900-0118-11eb-81de-06b15d45e52f.png)
-
-This image leads me to believe that the error is triggered by the code not being able to properly calculate the change in price for ticker symbol CSIQ.
 
 ### Summary
 ---
