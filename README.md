@@ -13,7 +13,7 @@ Using Visual Basic for Applications (VBA) available in Excel, this project attem
 ---
 ### Results
 ---
-https://github.com/Edwardo-H/stock-analysis/blob/master/Resources/2017%20Format.PNG
+![2017 Format](https://user-images.githubusercontent.com/70344787/112780874-f89a5700-9006-11eb-8207-ad904e4ed608.PNG)
 
 Unfortunately, I was unable to complete the Module 2 Challenge. Although I felt like I understood what each line of code was attemopting to deliver, I was tripped up by Run Time Error 6: Overflow.
 
